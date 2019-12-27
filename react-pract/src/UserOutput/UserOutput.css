@@ -1,0 +1,7 @@
+.UserOutput {
+  /* step10 adding styles */
+  border: 5px solid green;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
